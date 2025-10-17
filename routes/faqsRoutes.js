@@ -11,7 +11,7 @@ const categories = [
   "cancellation",
   "coupons",
   "feedback",
-  "general_inquiry",
+  "general_enquiry",
   "giftcard",
   "okalspecials",
   "okalsupersaver",

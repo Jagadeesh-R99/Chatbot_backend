@@ -1,0 +1,21 @@
+{
+  "category": "General Enquiries",
+  "faqs": [
+    {
+      "question": "How do I contact support?",
+      "answer": "Go to Help → Chat with Us in the app to reach support instantly."
+    },
+    {
+      "question": "Where can I see my order history?",
+      "answer": "Open 'My Orders' in the app to view past and current orders."
+    },
+    {
+      "question": "Can I edit my profile info?",
+      "answer": "Yes, go to Profile → Edit to update your details."
+    },
+    {
+      "question": "What are your working hours?",
+      "answer": "Support is available 24/7 for any app-related queries."
+    }
+  ]
+}
