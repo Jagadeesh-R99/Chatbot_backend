@@ -383,6 +383,7 @@ router.get("/search", async (req, res) => {
 // POST query - chat-style: returns top N matches using token overlap scoring and logs conversation
 // body: { message: "where's my order", category?: "orders", top?: 3 }
 router.post("/query", async (req, res) => {
+ 
   const message = String(req.body.message || "").trim();
   const category = req.body.category ? normalizeSlug(req.body.category) : null;
   const top = parseInt(req.body.top || 1, 10);
